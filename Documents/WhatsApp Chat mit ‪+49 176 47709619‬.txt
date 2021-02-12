@@ -1,0 +1,28 @@
+10.08.18, 17:25 - Nachrichten in diesem Chat sowie Anrufe sind jetzt mit Ende-zu-Ende-Verschlüsselung geschützt. Tippe für mehr Infos.
+10.08.18, 17:25 - Thomas Lober: Wie läufts bei euch mit der CV Aufgabe?
+10.08.18, 17:30 - ‪+49 176 47709619‬: Also rectification und die disparity map sind noch nicht gut. Aber sonst passt soweit alles. Aber halt nur mit referenzbildern😬😬
+10.08.18, 17:30 - ‪+49 176 47709619‬: Bei euch?
+10.08.18, 17:44 - Thomas Lober: Wir hängen auch gerade an den beiden. Mit den matlab Funktionen gehen die beiden Schritte richtig gut, aber selber haben wir es noch nicht so gut geschafft.
+10.08.18, 17:44 - Thomas Lober: Habt ihr denn es dann schon geschafft ein virtuelles Bild zu generieren?
+10.08.18, 17:45 - ‪+49 176 47709619‬: Also eine synthetisiertes bild bekommen wir schon hin.
+10.08.18, 17:46 - ‪+49 176 47709619‬: Mit löcherfüllen etc
+10.08.18, 17:46 - Thomas Lober: Echt, wie ist bei euch dort der Ansatz? Wir kommen von der man nicht auf das neue Bild. Uns fehlt dort der Ansatz
+10.08.18, 17:48 - ‪+49 176 47709619‬: Ich kann dir nachher n paper schicken an dem wir uns orientiert haben. Aber im endeffekt ist es die verschiebung der x koordinaten aus den beiden rectifizierten bildern und der disparity map
+10.08.18, 17:49 - ‪+49 176 47709619‬: Wir geberieren ja im endeffekt ein Mittelbild aus den beiden ansichten
+10.08.18, 17:50 - Thomas Lober: Ok, das wäre cool wenn du mir das paper schicken könntest. Hängen dort ganz schön fest. Ist ziemlich nervig 😑
+10.08.18, 17:50 - ‪+49 176 47709619‬: Ja versteh ich. Ich hock seit drei tagen dran eine vernünftige disparity map zu generieren. Aber die schauen immer vogelwild aus😅
+10.08.18, 17:51 - ‪+49 176 47709619‬: ‎IMG-20180810-WA0006.jpg (Datei angehängt)
+10.08.18, 17:51 - ‪+49 176 47709619‬: ‎IMG-20180810-WA0007.jpg (Datei angehängt)
+10.08.18, 17:51 - ‪+49 176 47709619‬: ‎IMG-20180810-WA0008.jpg (Datei angehängt)
+10.08.18, 17:52 - ‪+49 176 47709619‬: So wäre es perfekt. Aber so wird es nur mit disparity maps die bereits fertig waren😬😅
+10.08.18, 17:53 - Thomas Lober: Aber das ist schon mit eurem Code berechnet, nur das die map nicht von euch ist?
+10.08.18, 17:54 - ‪+49 176 47709619‬: Ja genau in das skript wurden zwei fertig rectifizierte bilder und zwei fertige disparity maps geladen
+10.08.18, 17:54 - Thomas Lober: Ok, das ist schon mal nice
+10.08.18, 17:55 - Thomas Lober: Also wenn ihr die map habt, seit ihr fertig.
+10.08.18, 17:55 - Thomas Lober: Wie schaut es mit eurer aus? Haust da auch ein Bild?
+10.08.18, 17:56 - ‪+49 176 47709619‬: ‎IMG-20180810-WA0009.jpg (Datei angehängt)
+10.08.18, 17:56 - ‪+49 176 47709619‬: Das mit selbst erstellter disparity map😅
+10.08.18, 17:57 - Thomas Lober: Zumindest schon ein Bild 😅
+10.08.18, 17:57 - ‪+49 176 47709619‬: Ja😅😅
+10.08.18, 17:58 - Thomas Lober: Wenn du das paper dazu nachher mal schicken könntest wäre gut. Würde uns ziemlich weiterhelfen. Wenn bei uns bei den anderen zwei Themen was weiter geht,  kann ich ja auch mal Bescheid geben 😉
+10.08.18, 17:58 - Thomas Lober: Weißt du eigentlich was vom Johannes?
